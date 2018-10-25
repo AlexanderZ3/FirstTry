@@ -1,0 +1,3 @@
+Here is the example to learn read and open function.
+If you open this file successfully, it means you have commanded this technique.
+Good luck to you. Be much patient.
