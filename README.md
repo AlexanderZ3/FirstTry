@@ -6,6 +6,4 @@ I practice the python3 from two sources:
 2. The Leetcode.com problems. For now I have solved some medium problems and after many practice, I believe it
    will get eaiser and easier for coding.
 
-   Life is short, so I choose python! Practice makes perfect!
-
-Hope this may helo me and you!
+   You can code, They can not, it's pretty damn cool!
